@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G4brielZanella
-- 👀 I’m interested in programacao em Java e c+
-- 🌱 I’m currently learning em Java
+- 👀 I’m interested in programacao 
+- 🌱 I’m currently learning 
 - 
   
 
